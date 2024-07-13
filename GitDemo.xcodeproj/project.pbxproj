@@ -13,6 +13,7 @@
 		A57234032C42858A0098BD96 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = A57234022C42858A0098BD96 /* Base */; };
 		A57234052C4285930098BD96 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A57234042C4285930098BD96 /* Assets.xcassets */; };
 		A57234082C4285930098BD96 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = A57234072C4285930098BD96 /* Base */; };
+		A57234102C428B220098BD96 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = A572340F2C428B220098BD96 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A57234042C4285930098BD96 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A57234072C4285930098BD96 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A57234092C4285930098BD96 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A572340F2C428B220098BD96 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		A57233EF2C42858A0098BD96 = {
 			isa = PBXGroup;
 			children = (
+				A572340F2C428B220098BD96 /* .gitignore */,
 				A57233FA2C42858A0098BD96 /* GitDemo */,
 				A57233F92C42858A0098BD96 /* Products */,
 			);
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A57234102C428B220098BD96 /* .gitignore in Resources */,
 				A57234052C4285930098BD96 /* Assets.xcassets in Resources */,
 				A57234082C4285930098BD96 /* Base in Resources */,
 				A57234032C42858A0098BD96 /* Base in Resources */,
